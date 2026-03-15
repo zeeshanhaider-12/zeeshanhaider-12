@@ -1,4 +1,4 @@
-# 💫 About Me
+
 
 ### 👨‍💻 Backend Developer @ Ahdus Technology | 🎓 Software Engineering @ NUML
 **Building scalable, type-safe architectures with a focus on performance and security.**
@@ -34,10 +34,9 @@
 - 🛠️ Implementing **Centralized Error Handling** and **Winston Logging** for enterprise apps.
 
 ---
-
 ### 📊 GitHub Insights
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=zeeshanhaider-12&show_icons=true&theme=radical&hide_border=true" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=zeeshanhaider-12&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="400" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanhaider-12&layout=compact&theme=radical&hide_border=true" width="300" />
 </p>
 
