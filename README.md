@@ -1,34 +1,48 @@
-# Hi there, I'm Zeeshan! 👋
-### Backend Developer @ Ahdus Technology | Software Engineering @ NUML
+# 💫 About Me
 
-I am a passionate Software Engineer focused on building scalable, type-safe, and high-performance applications.
+### 👨‍💻 Backend Developer @ Ahdus Technology | 🎓 Software Engineering @ NUML
+**Building scalable, type-safe architectures with a focus on performance and security.**
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-#### **Backend & Infrastructure**
-- 💻 **Core:** Node.js, TypeScript, Express.js, NestJS
-- 🗄️ **Database & ORM:** PostgreSQL 15.x, MongoDB, TypeORM (Migrations)
-- 🚀 **Performance:** Redis Caching, High-availability architectures
-- 🐳 **DevOps:** Docker & Containerization, CI/CD, Git
-- ☁️ **Cloud & AI:** GCP, AWS, VertexAI
+#### 🌐 Backend & Infrastructure
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-#### **Frontend**
-- 🎨 **UI/UX:** React, Next.js, Vite, Tailwind CSS, shadcn-ui
+#### 🎨 Frontend & UI
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-#### **Best Practices & Security**
-- 🔐 **Security:** Helmet, CORS, Rate limiting
-- 📝 **Documentation:** Swagger/OpenAPI
-- 🪵 **Logging:** Winston Logger
-- 🛠️ **Management:** Centralized Error Handling, Clean Architecture
-
----
-
-### 📊 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeeshanhaider-12&show_icons=true&theme=radical)
+#### 🤖 AI & Cloud
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
-### 📫 Connect with me:
-[LinkedIn](YOUR_LINKEDIN_URL) | [Portfolio](YOUR_PORTFOLIO_URL) | [Email](mailto:your@email.com)
+### 🚀 What I'm Currently Working On
+- 🏗️ Building a robust **CRM System** with advanced Event & Member management.
+- ⚡ Optimizing **TypeORM** queries and migrations for high-scale databases.
+- 🛠️ Implementing **Centralized Error Handling** and **Winston Logging** for enterprise apps.
+
+---
+
+### 📊 GitHub Insights
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=zeeshanhaider-12&show_icons=true&theme=radical&hide_border=true" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanhaider-12&layout=compact&theme=radical&hide_border=true" width="300" />
+</p>
+
+---
+
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
