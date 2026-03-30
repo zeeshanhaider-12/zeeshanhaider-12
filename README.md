@@ -3,7 +3,7 @@
 ### Software Developer @ Ahdus Technology | 🎓 Software Engineering @ NUML
 **Building scalable, type-safe architectures with a focus on performance and security.**
 
----   Portfolio
+ Portfolio
  https://zeeshanhaider-12.github.io/portfolio-new/
 ### 🛠️ Tech Stack & Tools
 
